@@ -1,0 +1,13 @@
+使用 adobe brackets
+http://brackets.io/
+
+
+建議安裝的外掛：
+Custom Work  
+Beautify
+Brackets Git
+Brackets Icons
+CSSLint
+Emmet
+Interactive Linter
+jQuinter
