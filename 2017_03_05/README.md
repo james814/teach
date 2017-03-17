@@ -15,8 +15,24 @@
 7、反向思考，如果遠端的github 在其他地方有更改過，你可以用pull把你更改的東西拉回來，了解多人團隊工作的原理<br />
 8、了解基本的github 使用方式，你可以將別人的專案clone 回來，別人也可以透過這個方式去clone 你的檔案 ，達到開源與團隊分工的目的。<br />
 9、用github 申請個人網頁<br />
+	wayne1894.github.io  可以設定全域性的
+
 10、與你的dns做綁定 (他的支線在mester)<br />
 
+10流程<br />
+	1、向dns服務商申請一個dns 
+	<br />
+	2、打開設定dns的管理介面
+	<br />
+		 將A記錄指向github的ip地址  192.30.252.153  , 192.30.252.154   有兩組ip
+		 <br />
+		 設定 CNAME 指向 your-username.github.io (還不確定要不要實作)
+		  <br />
+		 到github 根目錄放一個CANME的檔案 ，其中包含您的域名
+		 到github settings Custom domain  設定 你新的網址，Source 選 master
+		  <br />
+		 還有一個如何增加https
+		 https://sheharyar.me/blog/free-ssl-for-github-pages-with-custom-domains/
 ## 參考資源：
 
 git觀念：http://www.mrmu.com.tw/2011/05/06/git-tutorial-for-beginner/<br />
