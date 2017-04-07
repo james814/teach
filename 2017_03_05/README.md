@@ -35,6 +35,8 @@
 		 https://sheharyar.me/blog/free-ssl-for-github-pages-with-custom-domains/
 		 https://blog.ccjeng.com/2016/04/CloudFlare.html
 		https://blog.dmoon.tw/github-pages-with-free-ssl/
+		
+		https://www.cloudflare.com/   使用DNS
 ## 參考資源：
 
 git觀念：http://www.mrmu.com.tw/2011/05/06/git-tutorial-for-beginner/<br />
