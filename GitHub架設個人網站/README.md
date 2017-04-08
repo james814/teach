@@ -31,14 +31,17 @@
 		 到github 根目錄放一個CANME的檔案 ，其中包含您的域名
 		 到github settings Custom domain  設定 你新的網址，Source 選 master
 		  <br />
-		 還有一個如何增加https
-		 https://sheharyar.me/blog/free-ssl-for-github-pages-with-custom-domains/
-		 https://blog.ccjeng.com/2016/04/CloudFlare.html
-		https://blog.dmoon.tw/github-pages-with-free-ssl/
+
 		
 		https://www.cloudflare.com/   使用DNS
+			(1) 註冊一個帳號
+			(2) 輸入你github的網域		
 ## 參考資源：
 
 git觀念：http://www.mrmu.com.tw/2011/05/06/git-tutorial-for-beginner/<br />
 git觀念：http://www.ithome.com.tw/news/95283<br />
 github 建立個人網頁 ：http://ithelp.ithome.com.tw/articles/10171911<br />
+		 還有一個如何增加https
+		 https://sheharyar.me/blog/free-ssl-for-github-pages-with-custom-domains/
+		 https://blog.ccjeng.com/2016/04/CloudFlare.html
+		https://blog.dmoon.tw/github-pages-with-free-ssl/
